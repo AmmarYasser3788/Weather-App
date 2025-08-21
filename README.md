@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Weather-App
+A simple React Weather App that shows real-time weather by city name or your current location. Built with custom hooks, geolocation, and API integration, with error handling for invalid searches or denied location access.
+# 🌦️ React Weather App
+
+A simple and responsive weather app built with **React**.  
+It allows users to search for weather by city name or automatically fetch weather based on their **current location** using browser geolocation.
+
+---
+
+## 🚀 Features
+- 🌍 Search weather by **city name**
+- 📍 Auto-detect weather by **current location**
+- 🔄 Real-time data fetching from weather API
+- ⚡ Built with **custom React hooks**
+- 🛠️ Error handling for invalid searches or denied location access
+
+---
+
+## 📸 Preview
+(Add a screenshot or GIF of your app here if you want)
+
+---
+
+## 🛠️ Installation & Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/weather-app.git
+>>>>>>> 57fcc24e79f1971e3f8e03c2be86f8c558454907
